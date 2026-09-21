@@ -293,15 +293,14 @@ rcm-exaustores-industriais-notebooklm/
 │
 ├── README.md
 │
-├── fontes/
-│   └── referencias.md
+├── Fontes/
+│   └── Referencias.md
 │
 ├── prompts/
 │   ├── prompts-e-cicatrizes.md
 │   └── glossario-e-prompts-reutilizaveis.md
 │
 ├── miniguia/
-│   └── miniguia-rcm-exaustores.pdf
-│
-└── imagens/
+   └── miniguia-rcm-exaustores.pdf
+
 ```
