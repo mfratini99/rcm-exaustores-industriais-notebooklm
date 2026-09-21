@@ -301,6 +301,7 @@ rcm-exaustores-industriais-notebooklm/
 │   └── glossario-e-prompts-reutilizaveis.md
 │
 ├── miniguia/
+   └── arquivopdf.md
    └── miniguia-rcm-exaustores.pdf
 
 ```
