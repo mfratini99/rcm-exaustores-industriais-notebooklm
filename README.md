@@ -289,7 +289,7 @@ O processo mostrou que a qualidade do resultado depende tanto da ferramenta util
 # 📁 Estrutura do repositório
 
 ```text
-miniguia-rcm-notebooklm/
+rcm-exaustores-industriais-notebooklm/
 │
 ├── README.md
 │
@@ -305,17 +305,3 @@ miniguia-rcm-notebooklm/
 │
 └── imagens/
 ```
-
----
-
-# 📚 Referências
-
-1. U.S. Department of Energy (DOE); Federal Energy Management Program (FEMP). *Operations & Maintenance Best Practices: A Guide to Achieving Operational Efficiency*. Release 3.0. August 2010.
-
-2. U.S. Department of Energy (DOE); Federal Energy Management Program (FEMP). *Operations & Maintenance Best Practices: A Guide to Achieving Operational Efficiency — Chapter 5: Types of Maintenance Programs*. Release 3.0. August 2010.
-
-3. National Aeronautics and Space Administration (NASA). *Reliability-Centered Maintenance Guide for Facilities and Collateral Equipment*. Final. September 2008.
-
-4. NASA. *NPR 8831.2F — Facilities Maintenance and Operations Management, Chapter 7: Reliability Centered Maintenance*.
-
-5. PICANÇO, Ailson Renan Santos. *Uma abordagem híbrida entre a manutenção produtiva total e a manutenção centrada em confiabilidade para ambientes industriais*. Ponta Grossa, PR: Atena, 2023. ISBN 978-65-258-1638-8. DOI: 10.22533/at.ed.388232807.
